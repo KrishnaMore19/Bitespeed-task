@@ -225,5 +225,5 @@ The older contact stays `primary`. The newer contact is demoted to `secondary`.
 
 ## 👤 Author
 
-**Krish**  
+**Krishna**  
 GitHub: [KrishnaMore19](https://github.com/KrishnaMore19)
