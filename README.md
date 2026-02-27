@@ -6,7 +6,7 @@ A backend web service that identifies and links customer contacts across multipl
 
 ## 🚀 Endpoint Test Vedio
 
-
+Note: The live demo is not hosted on Render due to its free tier spinning down after 15 minutes of inactivity, which would cause cold start delays. The API is fully functional locally — follow the setup instructions above to run it yourself.
 
 https://github.com/user-attachments/assets/9b2d0624-8094-4f49-9842-8204a68cfaf8
 
